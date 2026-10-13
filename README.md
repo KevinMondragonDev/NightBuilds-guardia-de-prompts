@@ -2,7 +2,18 @@
 
 > Capa de seguridad en Python que analiza cada mensaje antes de enviarlo a un modelo de lenguaje y bloquea inyecciones de prompts.
 
-**Estado:** 🚧 sin empezar · **Tipo:** Servicio de seguridad (API) · **Módulo del programa:** 05/08 · Python tipado y arquitectura limpia
+**Estado:** 🚧 sin empezar · **Categoría:** NightBuilds · **Tipo:** Servicio de seguridad (API) · **Módulo del programa:** 05/08 · Python tipado y arquitectura limpia
+
+## Qué significa el nombre
+
+El prefijo del repositorio indica el tamaño del proyecto:
+
+| Prefijo | Tamaño | Qué es |
+|---|---|---|
+| `DevSandbox-` | Hasta 8 h | Un proyecto pequeño para practicar un tema concreto: un espacio para probar, equivocarse y terminar rápido |
+| **`NightBuilds-`** ← este | 8 h o más | Un proyecto grande, con varias piezas (base de datos, orquestación, nube o API) y decisiones de diseño propias |
+
+Este es un **NightBuilds**: el reto está estimado en 10–12 h.
 
 ## La problemática
 
