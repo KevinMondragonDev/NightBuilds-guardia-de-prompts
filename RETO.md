@@ -1,6 +1,6 @@
 # 🚀 Sideproject — Guardia de prompts
 
-**Repositorio:** `sideproject-guardia-de-prompts` · **Tipo:** servicio de seguridad (API) · **Tiempo:** 10–12 h · **Después de:** lecciones 1 a 5 de esta carpeta y `06_apis_con_fastapi`
+**Repositorio:** `sideproject-guardia-de-prompts` · **Tipo:** servicio de seguridad (API) · **Tiempo:** 10–12 h · **Después de:** lecciones 1 a 5 de esta sección y `06_apis_con_fastapi`
 
 > Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). Evaluación: [`RUBRICA.md`](docs/RUBRICA.md). **No hay solución: el diseño es tuyo.**
 

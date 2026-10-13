@@ -2,7 +2,7 @@
 
 > Capa de seguridad en Python que analiza cada mensaje antes de enviarlo a un modelo de lenguaje y bloquea inyecciones de prompts.
 
-**Estado:** 🚧 sin empezar · **Tipo:** Servicio de seguridad (API) · **Módulo del programa:** 06/08 · Python tipado y arquitectura limpia
+**Estado:** 🚧 sin empezar · **Tipo:** Servicio de seguridad (API) · **Módulo del programa:** 05/08 · Python tipado y arquitectura limpia
 
 ## La problemática
 
