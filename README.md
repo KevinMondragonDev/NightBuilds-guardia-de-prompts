@@ -1,4 +1,4 @@
-# sideproject-guardia-de-prompts
+# NightBuilds-guardia-de-prompts
 
 > Capa de seguridad en Python que analiza cada mensaje antes de enviarlo a un modelo de lenguaje y bloquea inyecciones de prompts.
 
@@ -24,7 +24,7 @@ Los archivos de `datos/` son **sintéticos**, generados para practicar: no corre
 
 El enunciado completo, con sus hitos y cómo comprobar cada uno, está en [`RETO.md`](RETO.md). No trae solución: el diseño es tuyo.
 
-- [`docs/REGLAS.md`](docs/REGLAS.md): cómo se trabaja un sideproject y qué debe tener este README al terminar.
+- [`docs/REGLAS.md`](docs/REGLAS.md): cómo se trabaja un NightBuild y qué debe tener este README al terminar.
 - [`docs/RUBRICA.md`](docs/RUBRICA.md): con qué criterios se evalúa.
 
 ## Cómo se ejecuta

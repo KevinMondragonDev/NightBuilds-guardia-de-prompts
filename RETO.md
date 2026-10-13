@@ -1,8 +1,8 @@
-# 🚀 Sideproject — Guardia de prompts
+# 🚀 NightBuild — Guardia de prompts
 
-**Repositorio:** `sideproject-guardia-de-prompts` · **Tipo:** servicio de seguridad (API) · **Tiempo:** 10–12 h · **Después de:** lecciones 1 a 5 de esta sección y `06_apis_con_fastapi`
+**Repositorio:** `NightBuilds-guardia-de-prompts` · **Tipo:** servicio de seguridad (API) · **Tiempo:** 10–12 h · **Después de:** lecciones 1 a 5 de esta sección y `06_apis_con_fastapi`
 
-> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). Evaluación: [`RUBRICA.md`](docs/RUBRICA.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`NIGHTBUILDS.md`](docs/REGLAS.md). Evaluación: [`RUBRICA.md`](docs/RUBRICA.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 
@@ -73,4 +73,4 @@ Revisa la licencia de cada conjunto antes de incluirlo en tu repositorio. Amplia
 
 - Una tercera capa con un clasificador entrenado con los conjuntos públicos, y la comparación de las tres capas por separado y juntas.
 - Analiza también la **salida** del modelo: que no devuelva su configuración ni datos personales.
-- Conéctalo delante de tu `sideproject-rag-local` y mide cuántas inyecciones indirectas detecta en los documentos recuperados.
+- Conéctalo delante de tu `NightBuilds-rag-local` y mide cuántas inyecciones indirectas detecta en los documentos recuperados.
